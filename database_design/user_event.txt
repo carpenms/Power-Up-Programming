@@ -1,0 +1,10 @@
+Drop table if exists user_event;
+Create table user_event
+(
+id int unique auto_increment NOT NULL primary key,
+user_id int,
+event_id int,
+Constraint fk_user_id foreign key (user_id) references User(id),
+Constraint fk_event_id foreign key (event_id) references Event(id)
+)
+CHARACTER SET utf8 COLLATE utf8_general_ci;

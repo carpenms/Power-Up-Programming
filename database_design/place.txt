@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS Place;
+Create table Place
+(
+id int unique auto_increment NOT NULL,
+name varchar(100) NOT NULL,
+address varchar(200) NOT NULL,
+weather varchar(50) NOT NULL,
+coordinate varchar(20) NOT NULL,
+PRIMARY KEY (id)
+)
+CHARACTER SET utf8 COLLATE utf8_general_ci;
+

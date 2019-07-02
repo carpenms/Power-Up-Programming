@@ -1,0 +1,17 @@
+Drop table if exists Event;
+Create table Event
+(
+id int unique auto_increment NOT NULL,
+title varchar(100) NOT NULL,
+create_date datetime NOT NULL,
+start_time  datetime NOT NULL,
+end_time  datetime NOT NULL,
+location_id int NOT NULL,
+limit_people int NOT NULL,
+cover varchar(200) NOT NULL,
+images text NOT NULL,
+description text NOT NULL,
+PRIMARY KEY (id),
+constraint fk_event_place foreign key (location_id) references Place(id)
+)
+CHARACTER SET utf8 COLLATE utf8_general_ci;
