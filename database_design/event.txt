@@ -15,3 +15,10 @@ PRIMARY KEY (id),
 constraint fk_event_place foreign key (location_id) references Place(id)
 )
 CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+INSERT INTO Event VALUES (1,'part01','2018-01-01','2020-01-01','2021-01-01',1,100,'https://i.imgur.com/DmE1DLe.jpg','https://i.imgur.com/DmE1DLe.jpg','No desc');
+
+INSERT INTO Event VALUES (2,'Denver party','2019-01-01','2019-01-01','2020-01-01',2,200,'https://i.imgur.com/DmE1DLe.jpg','https://i.imgur.com/DmE1DLe.jpg','Bring your food here');
+
+INSERT INTO Event VALUES (3,'Boulder Music','2019-01-01','2020-03-01','2021-01-09',1,150,'https://i.imgur.com/DmE1DLe.jpg','https://i.imgur.com/DmE1DLe.jpg','Sing song');
+

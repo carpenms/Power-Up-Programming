@@ -10,3 +10,6 @@ PRIMARY KEY (id)
 )
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
+INSERT INTO Place VALUES (1,'Boulder','CUB','sunny','1,1');
+INSERT INTO Place VALUES (2,'Denver','Denver Mall','cloudy','2,10');
+
