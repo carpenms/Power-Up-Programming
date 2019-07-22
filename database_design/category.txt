@@ -1,0 +1,8 @@
+Drop table if exists onCategories;
+Create table onCategories
+(
+	Id 	int  unique not null auto_increment,
+	Name 	Varchar(30) not null,
+	primary key(Id)
+)
+CHARACTER SET utf8 COLLATE utf8_general_ci;
