@@ -1,0 +1,11 @@
+Drop table if exists onCourses;
+Create table onCourses
+(
+	Id int unique not null auto_increment,
+	Name Varchar(200) not null,
+	Url Varchar(500) not null,
+	categoryId int,
+	primary key(Id),
+	constraint courses_fk foreign key(categoryId) references onCategories(Id)
+)
+CHARACTER SET utf8 COLLATE utf8_general_ci;
