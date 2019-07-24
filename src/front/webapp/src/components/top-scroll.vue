@@ -11,18 +11,9 @@
 <script>
     export default {
         name: "top-scroll",
+        props:["categories"],
         data:function () {
             return {
-                categories:[
-                    "Hot",
-                    "Html",
-                    "Js",
-                    "Python",
-                    "Golang",
-                    "C++",
-                    "Ruby",
-                    "DeepLearning",
-                ],
 
             }
         },

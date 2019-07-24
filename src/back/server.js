@@ -4,6 +4,9 @@ var app = express();
 var bodyParser = require('body-parser'); //Ensure our body-parser tool has been added
 app.use(bodyParser.json());              // support json encoded bodies
 app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
+var cors = require('cors');
+
+app.use(cors());
 
 //Create Database Connection
 var pgp = require('pg-promise')();
@@ -32,7 +35,7 @@ var con = mysql.createConnection({
   host: "localhost",
   user: "root",
   port: 3306,
-  password: "Dcsd136532",
+  password: "password",
   database: "3308proj"
 });
 
@@ -60,7 +63,8 @@ app.get('/', function(req, res) {
 });
 
 app.get('/home', function(req, res) {
-  var category = req.query.category
+  var category = req.query.category;
+  console.log(category);
   var query = 'select Url from onCourses where categoryId = (select Id from onCategories where Name = "' + category + '");';
   con.query(query, function (err, result, fields){
     if (err) throw err;
