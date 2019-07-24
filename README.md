@@ -26,7 +26,6 @@ npm run serve
 ```
 ​
 ## Built With
-​
 * node.js 
 * vue.js for front-end
 
