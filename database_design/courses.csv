@@ -1,37 +1,46 @@
 Id,Name,Url,categoryID
-1,1. How to program in C# - BASICS - Beginner Tutorial,https://youtu.be/pSiIHe2uZ2w?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51,1
-2,2. How to program in C# - Beginner Tutorial,https://youtu.be/nA2pSmBmvKg?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51,1
-3,3. How to program in C# - VARIABLES - Beginner Tutorial,https://youtu.be/udoMi4mGYYw?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51,1
-4,4. How to program in C# - IF STATEMENTS - Beginner Tutorial,https://youtu.be/OXTK7cnphYY?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51,1
-5,5. How to program in C# - SWITCH STATEMENTS - Beginner Tutorial,https://youtu.be/Qs-LAYkp9YU?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51,1
-6,6. How to program in C# - FOR LOOPS - Beginner Tutorial,https://youtu.be/eIsGXwisKPE?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51,1
-7,Buckys C++ Programming Tutorials - 1 - Installing CodeBlocks,https://youtu.be/tvC1WCdV1XU?list=PLAE85DE8440AA6B83,2
-8,Buckys C++ Programming Tutorials - 2 - Understanding a Simple C++ Program,https://youtu.be/SWZfFNyUsxc?list=PLAE85DE8440AA6B83,2
-9,Buckys C++ Programming Tutorials - 3 - More on Printing Text,https://youtu.be/sPv0HQ8xOaU?list=PLAE85DE8440AA6B83,2
-10,Buckys C++ Programming Tutorials - 4 - Variables,https://youtu.be/QwBSv4-_Lmk?list=PLAE85DE8440AA6B83,2
-11,Buckys C++ Programming Tutorials - 5 - Creating a Basic Calculator,https://youtu.be/yjucJUsHSqg?list=PLAE85DE8440AA6B83,2
-12,Buckys C++ Programming Tutorials - 6 - Variables Memory Concepts,https://youtu.be/3Iq_uFbc4L4?list=PLAE85DE8440AA6B83,2
-13,JavaScript Tutorial For Beginners 01 - Introduction,https://youtu.be/qoSksQ4s_hg?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET,3
-14,JavaScript for Beginners 02 - What is JavaScript?,https://youtu.be/VB7y0yxZjro?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET,3
-15,JavaScript Tutorial For Beginners 03 - Hello World! in JavaScript,https://youtu.be/ranSYb-EhrU?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET,3
-16,JavaScript Tutorial For Beginners #4 - Where to put your JS,https://youtu.be/czlwRUeTCgw?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET,3
-17,JavaScript Tutorial For Beginners #5 - Google Chrome Developer Tools,https://youtu.be/JzZFccCEgGA?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET,3
-18,JavaScript Tutorial For Beginners #6 - Basic JavaScript Syntax & Rules,https://youtu.be/QLatPwsbDrQ?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET,3
-19,Node.js - Tutorial - Introduction,https://youtu.be/65a5QQ3ZR2g?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR,4
-20,Node.js - Tutorial - First Application,https://youtu.be/JH4qVqplC8E?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR,4
-21,Node.js - Tutorial - JavaScript Modules & Anonymous Functions,https://youtu.be/NemVc0_pnzM?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR,4
-22,Node.js - Tutorial - My IDE,https://youtu.be/ioxgbkxIGwE?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR,4
-23,Node.js - Tutorial - Rendering HTML as Response,https://youtu.be/p5eCYKiZN-4?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR,4
-24,Node.js - Tutorial - Routing,https://youtu.be/tiMLxUKrB-g?list=PL55RiY5tL51oGJorjEgl6NVeDbx_fO5jR,4
-25,1: Introduction to PHP Programming,https://youtu.be/qVU3V0A05k8?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-,5
-26,2: Installing A Local Server for PHP,https://youtu.be/mXdpCRgR-xE?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-,5
-27,3: Output In Browser Using PHP,https://youtu.be/zlCwveRcyKQ?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-,5
-28,4: How to Create PHP Variables,https://youtu.be/CoorcqbkpI0?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-,5
-29,5: How to Write Comments in PHP,https://youtu.be/pHxBA2ZbHis?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-,5
-30,6: What Are Internal Functions in PHP,https://youtu.be/kByr0ifju4k?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-,5
-31,#0 Python Tutorial,https://youtu.be/QXeEoD0pB3E?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3,6
-32,#1 Python Tutorial for Beginners | Introduction to Python,https://youtu.be/hEgO047GxaQ?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3,6
-33,#2 Python Tutorial for Beginners | Python Installation,https://youtu.be/mbryl4MZJms?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3,6
-34,#3 Python Tutorial for Beginners | Getting Started with Python,https://youtu.be/DWgzHbglNIo?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3,6
-35,#4 Python Tutorial for Beginners | Variables in Python,https://youtu.be/TqPzwenhMj0?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3,6
-36,#5 Python Tutorial for Beginners | List in Python,https://youtu.be/Eaz5e6M8tL4?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3,6
+1,Learn Swift for Beginners Lesson 1 - Variables (Swift 5 compatible),https://www.youtube.com/embed/2OZ07fklur8,2
+2,Learn Swift for Beginners - Ep 2 - Data Types,https://www.youtube.com/embed/BlXrMgmvNBI,2
+3,Learn Swift for Beginners - Ep 3 - If Statements,https://www.youtube.com/embed/z_4JuCD0mz8,2
+4,Learn Swift for Beginners - Ep 4 - Switch Statements,https://www.youtube.com/embed/PZEWRDbSn6c,2
+5,Learn Swift for Beginners - Ep 5 - Loops Part 1,https://www.youtube.com/embed/vxyrLbmm9Oo,2
+6,Learn Swift for Beginners - Ep 6 - Loops Part 2,https://www.youtube.com/embed/XDJXLw0Y3Hs,2
+7,#0 Ruby Tutorial : Installation of Softwares: Get Started,https://www.youtube.com/embed/SHzeVBrW_rA,3
+8,#1 Ruby Tutorial: Setting up PATH Variable - Installation Part - 2,https://www.youtube.com/embed/XPamNWh9E5c,3
+9,#2 Ruby Tutorial : Ruby Programming Introduction Ruby Features and importance.,https://www.youtube.com/embed/J57kLSJegZk,3
+10,#3 Ruby Tutorial - Interactive Ruby Programming,https://www.youtube.com/embed/c4ZXrCe5tEs,3
+11,#4 Ruby Tutorial - Ruby Syntax & Basic Rules - Variables - comments,https://www.youtube.com/embed/u5wVtsjsSY4,3
+12,#5 Ruby tutorial - User input Part - 1,https://www.youtube.com/embed/UmZwfTnU02I,3
+13,JavaScript Tutorial For Beginners 01 - Introduction,https://www.youtube.com/embed/qoSksQ4s_hg,4
+14,JavaScript for Beginners 02 - What is JavaScript?,https://www.youtube.com/embed/VB7y0yxZjro,4
+15,JavaScript Tutorial For Beginners 03 - Hello World! in JavaScript,https://www.youtube.com/embed/ranSYb-EhrU?,4
+16,JavaScript Tutorial For Beginners #4 - Where to put your JS,https://www.youtube.com/embed/czlwRUeTCgw,4
+17,JavaScript Tutorial For Beginners #5 - Google Chrome Developer Tools,https://www.youtube.com/embed/JzZFccCEgGA?,4
+18,JavaScript Tutorial For Beginners #6 - Basic JavaScript Syntax & Rules,https://www.youtube.com/embed/QLatPwsbDrQ,4
+19,Node.js - Tutorial - Introduction,https://www.youtube.com/embed/65a5QQ3ZR2g,5
+20,Node.js - Tutorial - First Application,https://www.youtube.com/embed/JH4qVqplC8E,5
+21,Node.js - Tutorial - JavaScript Modules & Anonymous Functions,https://www.youtube.com/embed/NemVc0_pnzM,5
+22,Node.js - Tutorial - My IDE,https://www.youtube.com/embed/ioxgbkxIGwE,5
+23,Node.js - Tutorial - Rendering HTML as Response,https://www.youtube.com/embed/p5eCYKiZN-4,5
+24,Node.js - Tutorial - Routing,https://www.youtube.com/embed/tiMLxUKrB-g,5
+25,1: Introduction to PHP Programming,https://www.youtube.com/embed/qVU3V0A05k8,6
+26,2: Installing A Local Server for PHP,https://www.youtube.com/embed/mXdpCRgR-xE,6
+27,3: Output In Browser Using PHP,https://www.youtube.com/embed/zlCwveRcyKQ,6
+28,4: How to Create PHP Variables,https://www.youtube.com/embed/CoorcqbkpI0,6
+29,5: How to Write Comments in PHP,https://www.youtube.com/embed/pHxBA2ZbHis,6
+30,6: What Are Internal Functions in PHP,https://www.youtube.com/embed/kByr0ifju4k?,6
+31,#0 Python Tutorial,https://www.youtube.com/embed/QXeEoD0pB3E,7
+32,#1 Python Tutorial for Beginners | Introduction to Python,https://www.youtube.com/embed/hEgO047GxaQ,7
+33,#2 Python Tutorial for Beginners | Python Installation,https://www.youtube.com/embed/mbryl4MZJms,7
+34,#3 Python Tutorial for Beginners | Getting Started with Python,https://www.youtube.com/embed/DWgzHbglNIo,7
+35,#4 Python Tutorial for Beginners | Variables in Python,https://www.youtube.com/embed/TqPzwenhMj0,7
+36,#5 Python Tutorial for Beginners | List in Python,https://www.youtube.com/embed/Eaz5e6M8tL4,7
+37,How To Learn to Code For Beginners [2017],https://www.youtube.com/embed/X4rU02088Xc,1
+38,iOS Swift Tutorial: From Sketch Design to Real App,https://www.youtube.com/embed/DYhPufgcqF4,1
+39,iOS Swift Tutorial: From Sketch Design to Real App,https://www.youtube.com/embed/vLnPwxZdW4Y,1
+40,Python Coding tutorial - Don't be scared of code! Step by step walkthrough,https://www.youtube.com/embed/kZu5woA0fHg,1
+41,C Programming Tutorial | Learn C programming | C language,https://www.youtube.com/embed/-CpG3oATGIs,1
+42,Learn React.js - Full Course for Beginners - Tutorial 2019,https://www.youtube.com/embed/DLX62G4lc44,1
+43,What Is SAS | SAS Tutorial For Beginners | SAS Programming | SAS Training | Edureka,https://www.youtube.com/embed/6oeeedtz9Gg,1
+44,JavaScript Snake Game Tutorial Using Functional Programming,https://www.youtube.com/embed/bRlvGoWz6Ig,1
+45,How to Make an App for Beginners (2018) - Lesson 1,https://www.youtube.com/embed/YIZxSZJMU2Y,1
