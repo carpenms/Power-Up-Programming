@@ -1,7 +1,7 @@
 # 3308project
 # Power Up Programming
 ​
-Our project is a web application that helps users find resources to study the most popular programming languages and software. The amount of educational resources available are rapidly multiplying thanks to websites like youtube or lynda. Although having more options is great, the best resources are often lost among the multitude of basic information. It is also important to know if the resource you are learning from is accurate. 
+Our project is a web application that helps users find resources to study the most popular programming languages and software. The amount of educational resources available are rapidly multiplying thanks to websites like youtube and lynda. Although having more options is great, the best resources are often lost as the amount of videos expand exponentially. It is also important to know if the resource you are learning from is accurate. The website will not only provide aggregation of these resources but also use user metrics to feature better and better content over time.
 ​
 ## Getting Started
 
