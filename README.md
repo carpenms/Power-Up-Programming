@@ -8,7 +8,7 @@ Our project is a web application that helps users find resources to study the mo
 ![Gif](./3308proj.gif)
 
 ## Installing
-This project is based on **Vue.js** and **Node.js** so that make sure to download it correctly.
+This project is based on **Vue.js** and **Node.js** so make sure to download it correctly.
 ### Back-end Project setup
 make sure you are in 'src/back'
 
